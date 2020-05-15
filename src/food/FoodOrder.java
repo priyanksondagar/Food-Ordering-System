@@ -1239,5 +1239,5 @@ public class FoodOrder extends javax.swing.JFrame {
     private javax.swing.JTextField jtxtfieldThums;
     private javax.swing.JTextField jtxtfieldThumsP;
     private javax.swing.JTextField jtxtfieldTotal;
-    priyank// End of variables declaration//GEN-END:variables
+    // End of variables declaration//GEN-END:variables
 }
